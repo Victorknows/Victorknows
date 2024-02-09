@@ -1,1 +1,1 @@
-- 👋 Hi there my name is Victor Muhoro. I am currently exploring javascript and css.
+- 👋 Hi there my name is Victor Muhoro. I am currently exploring javascript and react.
