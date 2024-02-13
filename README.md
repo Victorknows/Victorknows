@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **victormuhoro7@gmail.com**
 
-- ⚡ Fun fact **I am HIM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
