@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Muhoro</h1>
-<h3 align="center">Software Engineer based inNairobi, Kenya</h3>
+<h3 align="center">Software Engineer based in Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorknows&label=Profile%20views&color=0e75b6&style=flat" alt="victorknows" /> </p>
 
